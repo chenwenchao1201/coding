@@ -1,0 +1,2 @@
+学习shiro相关的一些项目和小demo
+帮助我快速了解shiro并且在项目中接入shiro框架
