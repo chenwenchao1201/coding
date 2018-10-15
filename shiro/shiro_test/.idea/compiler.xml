@@ -6,8 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="shiro-jiami" />
+        <module name="shiro-realm" />
         <module name="shiro-renzheng" />
+        <module name="shiro-shouquan" />
+        <module name="shiro-web" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-shiro-test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

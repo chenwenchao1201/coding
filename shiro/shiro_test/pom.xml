@@ -10,6 +10,11 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>shiro-renzheng</module>
+        <module>shiro-shouquan</module>
+        <module>shiro-realm</module>
+        <module>shiro.jiami</module>
+        <module>spring.shiro.test</module>
+        <module>shiro-web</module>
     </modules>
     <!--指定jdk版本-->
     <build>
